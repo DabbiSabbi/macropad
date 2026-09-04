@@ -3022,6 +3022,96 @@
 		)
 	)
 	(symbol
+		(lib_id "SK6812MINI-E:SK6812MINI-E")
+		(at 130.81 146.05 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "136ef401-5f5c-4166-9bd8-589601fb8c45")
+		(property "Reference" "D8"
+			(at 156.21 139.6298 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI-E"
+			(at 156.21 142.1699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+			)
+		)
+		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+			(at 132.08 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf"
+			(at 133.35 155.575 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 130.81 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3b007b46-19aa-4cda-bb58-d76f6156edfb")
+		)
+		(pin "2"
+			(uuid "4f2ca64b-4dcd-430b-9da7-76c1f94ebd05")
+		)
+		(pin "4"
+			(uuid "4dc489a2-22f9-4fa6-aadb-5db92b1b267d")
+		)
+		(pin "3"
+			(uuid "915219b9-9ba0-41aa-8ea5-4f62e580fa2d")
+		)
+		(instances
+			(project "My-Hackpad"
+				(path "/548613fd-d67d-45f0-ad6c-97c3e7edf34f"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
 		(at 153.67 64.77 0)
 		(unit 1)

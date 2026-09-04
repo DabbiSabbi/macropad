@@ -1,6 +1,6 @@
 {
     "manufacturer": "DabbiSabbi",
-    "keyboard_name": "hackatime_macropad",
+    "keyboard_name": "macropad",
     "maintainer": "DabbiSabbi",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
@@ -15,7 +15,7 @@
         "rows": ["GP29", "GP0"]
     },
     "processor": "RP2040",
-    "url": "",
+    "url": "https://github.com/DabbiSabbi/macropad",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
