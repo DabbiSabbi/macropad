@@ -1,20 +1,20 @@
-# hackatime_macropad
+# Macropad
 
-![hackatime_macropad](imgur.com image replace me!)
+Macropad
 
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [DabbiSabbi](https://github.com/DabbiSabbi)
-* Hardware Supported: *The PCBs, controllers supported*
+* Hardware Supported: *RP2048*
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
-    make hackatime_macropad:default
+    make Macropad:default
 
 Flashing example for this keyboard:
 
-    make hackatime_macropad:default:flash
+    make Macropad:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
