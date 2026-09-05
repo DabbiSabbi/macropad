@@ -6,8 +6,8 @@
 
 The body is in 3 parts, a lid, base and diffuser, The diffuser is meant to be printed in a clear material such as clear PETG. 
 ![The CAD](CAD/image.png)
-![PCB](<PCB/Screenshot 2026-09-03 140702.png>)
-![Schematic](<PCB/Screenshot 2026-09-03 140646.png>)
+![PCB](<PCB/Screenshot 2026-09-05 011318.png>)
+![Schematic](<PCB/Screenshot 2026-09-05 011355.png>)
 # BOM
 | Part | Quantity |
 | - | - |
